@@ -1,4 +1,14 @@
 # Binary Search Tree
 
-Information about the implementation or project
-
+This binary search tree is not limited to a specific
+data type. i.e. the tree can store 
+Output:
+```
+Inorder (sorted): Adam Daniel George Jones Michael Peter Tom 
+Postorder: Daniel Adam Jones Peter Tom Michael George 
+Preorder: George Adam Daniel Michael Jones Tom Peter 
+The number of nodes is 7
+Is Peter in the tree? true
+A path from the root to Peter is: George Michael Tom Peter 
+Inorder (sorted): 1 2 3 4 5 6 7 8 
+```
