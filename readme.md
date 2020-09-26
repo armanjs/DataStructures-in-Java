@@ -1,6 +1,6 @@
 # Data Structures in Java
 
-Information about the implementation or project
+These implementations are for learning purposes. The implementation may be less efficient than that in the Java standard library.
 
 ## Implementations
 

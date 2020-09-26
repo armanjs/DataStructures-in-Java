@@ -25,6 +25,26 @@ Sorting Benchmarks in milliseconds
          300000|        16047|           63|           45|          266|           38|
  ```
 
+## Sort Algorithms
+
+### Selection
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort), The algorithm divides the input list into two parts: a sorted sublist of items which is built up from left to right at the front (left) of the list and a sublist of the remaining unsorted items that occupy the rest of the list. Initially, the sorted sublist is empty and the unsorted sublist is the entire input list. The algorithm proceeds by finding the smallest (or largest, depending on sorting order) element in the unsorted sublist, exchanging (swapping) it with the leftmost unsorted element (putting it in sorted order), and moving the sublist boundaries one element to the right.
+
+![selection sort Gif](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
+
+#### Properties
+
+Data structure: Array
+
+#### Time Complexity
+
+* Worst case performance O(n^2)
+* Best case performance O(n^2)
+* sAverage case performance O(n^2)
+
+
+
 #### System requirement
 
 * java 8 or later 
