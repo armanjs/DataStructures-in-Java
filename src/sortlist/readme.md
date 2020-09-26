@@ -29,8 +29,6 @@ The algorithm divides the input list into two parts: a sorted sublist of items w
 
 ![selection sort Gif](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
 
-Source - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
-
 #### Properties
 
 Data structure: Array
@@ -48,8 +46,6 @@ In computer science, merge sort (also commonly spelled mergesort) is an efficien
 
 ![merge sort Gif](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
-Source - [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
-
 #### Properties
 
 Data structure: Array
@@ -66,8 +62,6 @@ Data structure: Array
 Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This can be done in-place, requiring small additional amounts of memory to perform the sorting.
 
 ![quicksort sort Gif](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
-
-Source - [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
 
 #### Properties
 
@@ -110,4 +104,8 @@ Data structure: array
 
 ## Sources
 
-[Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
+- Selection sort - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+- Merge sort - [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
+- Quicksort - [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+- Selection sort - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+- Radix sort - [Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
