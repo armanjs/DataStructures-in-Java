@@ -1,3 +1,7 @@
+## Sort Algorithms
+
+A sorting algorithm is an algorithm that puts elements of a list in a certain order. The most frequently used orders are numerical order and lexicographical order. Efficient sorting is important for optimizing the efficiency of other algorithms (such as search and merge algorithms) that require input data to be in sorted lists.
+
 # Sort-Algorithm-Benchmark
 
 In this program we will be investigating different types of sorting methods
@@ -20,8 +24,6 @@ Sorting Benchmarks in **milliseconds**
 | 200,000    | 7087      | 37    | 28    | 166  | 32    |
 | 250,000    | 10495     | 46    | 38    | 300  | 58    |
 | 300,000    | 16047     | 63    | 45    | 266  | 38    |
-
-## Sort Algorithms
 
 ### Selection
 
